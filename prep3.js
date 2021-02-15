@@ -162,6 +162,7 @@ What changed?
 - !(ret == undefined) could be rewritten as !(ret) to once again, take advantage of falsy-ness (but this can be further improved)
 - Rather than opting for any of the verbose options above, we can take advantage of the fact that in an or expression, ret (if undefined or false) will skip to the next condition and use it instead. This allows us to trim down our 5 lines of code into fewer characters and it's once again, a lot more readable
 
+*/
 
 
 
