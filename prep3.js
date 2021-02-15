@@ -1,4 +1,8 @@
 
+// Some basic information about JS alerts, confirms, prompts, and switch cases.
+// Also some brief commentary on JS Style Guides
+
+
 // Alert Box --- ensures users receive some information
 // users must click "OK" to proceed
 window.alert("some text") // window prefix unnecessary
