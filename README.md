@@ -4,7 +4,7 @@ Business Application Development - Primarily Javascript
 Accompanying Text: Eloquent Javascript
 https://eloquentjavascript.net/
 
-# Codecademy Progress:
+### Codecademy Progress:
 1. Introduction √
 2. Conditionals √
 3. Functions
