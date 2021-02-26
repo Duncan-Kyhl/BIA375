@@ -19,3 +19,6 @@ https://eloquentjavascript.net/
 12. Promises
 13. Async-Await
 14. Requests
+
+
+# Semester Project Ideas: Partner with Omaha Business
