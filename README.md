@@ -7,10 +7,10 @@ https://eloquentjavascript.net/
 ### Codecademy Progress:
 1. Introduction √
 2. Conditionals √
-3. Functions
-4. Scope
-5. Arrays
-6. Loops
+3. Functions √
+4. Scope √
+5. Arrays √
+6. Loops √
 7. Iterators
 8. Objects
 9. Classes
